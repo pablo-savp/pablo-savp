@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Amazon Web Services and Docker**
 
-- 👨‍💻 All of my projects and this I like working on are available at [https://github.com/pablo-savp](https://github.com/pablo-savp)
+- 👨‍💻 All of my projects and things I like working on are available at [https://github.com/pablo-savp](https://github.com/pablo-savp)
 
 - 📫 How to reach me **santanderalvarez.pablo@gmail.com**
 
