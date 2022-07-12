@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [my Thesis with Alianza Caoba. This institution is the Center of excellence and appropriation in Big Data and Data Analytics ](https://www.alianzacaoba.co/)
 
-- 🌱 I’m currently learning **Amazon Web Services and Docker**
+- 🌱 I’m currently learning **Amazon Web Services and Kafka**
 
 - 👨‍💻 All of my projects and things I like working on are available at [https://github.com/pablo-savp](https://github.com/pablo-savp)
 
