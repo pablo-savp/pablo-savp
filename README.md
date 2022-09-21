@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pablo-savp&label=Profile%20views&color=0e75b6&style=flat" alt="pablo-savp" /> </p>
 
-- 🔭 I’m currently working on [my Thesis with Alianza Caoba. This institution is the Center of excellence and appropriation in Big Data and Data Analytics ](https://www.alianzacaoba.co/)
+- 🔭 I’m currently working on [my Thesis with Alianza Caoba. This institution is the Center of excellence and appropriation in Big Data and Data Analytics. The thesis is based on a cloud microservices architecture](https://www.alianzacaoba.co/)
 
 - 🌱 I’m currently learning **Amazon Web Services**
 
