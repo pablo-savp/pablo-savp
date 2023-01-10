@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pablo-savp&label=Profile%20views&color=0e75b6&style=flat" alt="pablo-savp" /> </p>
 
-- 🔭 I’m currently working on [my Thesis with Alianza Caoba. This institution is the Center of excellence and appropriation in Big Data and Data Analytics. The thesis is based on a cloud microservices architecture](https://www.alianzacaoba.co/)
+- 🔭 I’m currently working on Schlumberger in the IT Operations Management Team, which involves Automation and Monitoring of the IT Business Infrastructure.
 
-- 🌱 I’m currently learning **Amazon Web Services**
+- 🌱 I’m currently learning **Amazon Web Services, Azure, DevOps and Systems Administration**
 
 - 👨‍💻 All of my projects and things I like working on are available at [https://github.com/pablo-savp](https://github.com/pablo-savp)
 
