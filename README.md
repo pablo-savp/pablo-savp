@@ -5,13 +5,11 @@
 
 - 🔭 I’m currently working on Schlumberger in the IT Operations Management Team, which involves Automation and Monitoring of the IT Business Infrastructure.
 
-- 🌱 I’m currently learning **Amazon Web Services, Azure, DevOps and Systems Administration**
-
-- 👨‍💻 All of my projects and things I like working on are available at [https://github.com/pablo-savp](https://github.com/pablo-savp)
+- 🌱 I’m currently learning **Amazon Web Services, Azure and Systems Administration**
 
 - 📫 How to reach me **santanderalvarez.pablo@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/pablo-s-ab6053139/](https://www.linkedin.com/in/pablo-s-ab6053139/)
+- 📄 Know about my experience [https://www.linkedin.com/in/pablo-s-ab6053139/](https://www.linkedin.com/in/pablo-s-ab6053139/)
 
 - ⚡ Facts **I love going to the gym at least 4 times a week and then chilling to music and programming.**
 
