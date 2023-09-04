@@ -11,7 +11,7 @@
 
 - 📄 Know about my experience [https://www.linkedin.com/in/pablo-s-ab6053139/](https://www.linkedin.com/in/pablo-s-ab6053139/)
 
-- ⚡ Facts **I love going to the gym at least 4 times a week and then chilling to music and programming.**
+- ⚡ Facts **I love going to the gym at least 4 times a week.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
