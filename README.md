@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pablo-savp&label=Profile%20views&color=0e75b6&style=flat" alt="pablo-savp" /> </p>
 
-- 🔭 I’m currently working on Schlumberger in the IT Operations Management Team.
+- 🔭 I’m currently working on Schlumberger in the Digital Operations Automation Team.
 
 - 🌱 I’m currently learning **ServiceNow, Automation, Azure and Systems Administration**
 
